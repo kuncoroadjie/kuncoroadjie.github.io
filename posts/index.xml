@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on Hugo Hermit</title>
+		<title>Posts on Kerah Hitam</title>
 		<link>https://kuncoroadjie.github.io/posts/</link>
-		<description>Recent content in Posts on Hugo Hermit</description>
+		<description>Recent content in Posts on Kerah Hitam</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -15,9 +15,15 @@
 			<pubDate>Mon, 15 Aug 2022 19:35:00 +0700</pubDate>
 			
 			<guid>https://kuncoroadjie.github.io/posts/introduction/</guid>
-			<description>Hello world, My name is Kuncoro Adjie Simple person who love typing</description>
-			<content type="html"><![CDATA[<p>Hello world, My name is Kuncoro Adjie
-Simple person who love typing</p>
+			<description>Hello world, My name is Kuncoro Adjie. Simple person who love typing.
+I use GNU/Linux everyday on my potato laptop. The distro that I use is arch linux with bspwm as its window manager which previously I used i3wm and dwm.
+I&amp;rsquo;m currently starting to explore the front-end of the web.
+Thanks for dropping by.</description>
+			<content type="html"><![CDATA[<p>Hello world, My name is Kuncoro Adjie.
+Simple person who love typing.</p>
+<p>I use <a href="https://www.gnu.org/gnu/linux-and-gnu">GNU/Linux</a> everyday on my potato laptop. The distro that I use is arch linux with <a href="https://github.com/baskerville/bspwm">bspwm</a> as its window manager which previously I used <a href="https://i3wm.org/">i3wm</a> and <a href="https://dwm.suckless.org/">dwm</a>.</p>
+<p>I&rsquo;m currently starting to explore the front-end of the web.</p>
+<p>Thanks for dropping by.</p>
 ]]></content>
 		</item>
 		
